@@ -1,3 +1,7 @@
+//NAMA: RASTA NURA RAYANI SAPUTRI
+//NIM: 224107060106
+//ABSEN: 19
+
 import java.util.Scanner;
 public class UAS1C19 {
     static Scanner no19 = new Scanner(System.in);
@@ -14,7 +18,7 @@ public class UAS1C19 {
             System.out.println("2.Tampilkan Tabel Skor ");
             System.out.println("3. Tentukan Juara");
             System.out.println("4. Keluar");
-            System.out.println("======================");
+            System.out.println("======================");SSSS
             System.out.print("Masukkan Pilihan (1-4): ");
             int pilihan19 = no19.nextInt();
             no19.nextLine();
